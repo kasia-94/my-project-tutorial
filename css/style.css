@@ -17,7 +17,7 @@ body {
 }
 
 .section {
-  background-color: #f8d4c3;
+  background-color: #faaf8c6c;
   margin: 20px 0px 20px 0px;
   padding: 10px 20px 10px 20px;
 }
@@ -96,7 +96,7 @@ p {
 .my-work-experience-time {
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
   /* margin: 0 0 8px 0; */
 }
 
@@ -108,7 +108,7 @@ p {
   padding: 0 0 0 5px;
 }
 .my-work-experience-duty {
-  color: #595959;
+  color: black;
   margin-bottom: 5px;
 }
 .my-work-company {
@@ -134,7 +134,7 @@ p {
 .education-period {
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
   margin: 0;
 }
 .divider {
@@ -143,7 +143,7 @@ p {
 }
 .sidebar-section {
   background-color: #faac7f;
-  margin: 20px 20px 20px 20px;
+  /* margin: 20px 20px 20px 20px; */
   /* padding: 40px 0 px; */
   width: 368px;
 }
@@ -187,8 +187,6 @@ p {
 }
 
 svg {
-  width: 20px;
-  height: 20px;
   fill: black;
   margin-right: 10px;
 }
